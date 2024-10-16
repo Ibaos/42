@@ -1,0 +1,7 @@
+.objs/
+libft/objs/
+libft/libft.a
+cub3D
+minilibx-linux
+.OLD_VERSION/
+.vscode/
