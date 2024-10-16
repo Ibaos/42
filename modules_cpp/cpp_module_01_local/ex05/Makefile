@@ -1,4 +1,4 @@
-NAME				=	Harlfilter
+NAME				=	harl
 
 OBJS_DIR			=	.objs
 

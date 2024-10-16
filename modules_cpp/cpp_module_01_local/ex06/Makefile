@@ -1,10 +1,11 @@
-NAME				=	sedisforlosers
+NAME				=	harlfilter
 
 OBJS_DIR			=	.objs
 
-FILES				=	main.cpp
+FILES				=	main.cpp	\
+						Harl.cpp
 
-HEADER				=
+HEADER				=	Harl.hpp
 
 OBJS				=	$(FILES:%.cpp=$(OBJS_DIR)/%.o)
 
